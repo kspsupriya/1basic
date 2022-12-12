@@ -1,0 +1,6 @@
+music.startMelody(music.builtInMelody(Melodies.JumpUp), MelodyOptions.Once)
+basic.pause(1000)
+basic.showString("Hello!")
+basic.pause(1000)
+basic.showString("SUPRIYA")
+basic.showIcon(IconNames.Happy)
